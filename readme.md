@@ -16,7 +16,7 @@ Nubank is a Brazilian digital bank and one of the largest Fintechs in Latin Amer
 
 We are working with a data set containing 43 features for 45,000 clients. target_default is a True/False feature and is the target variable we are trying to predict. After exploring the data set, we found that some features had outliers and missing values. 
 
-- check: https://github.com/thabresh-s/Credit-Risk-Analysis
+- **check Notebook:** https://github.com/thabresh-s/Credit-Risk-Analysis/blob/main/Credit_Risk_Analysis.ipynb
 
 ### Machine Learning Models
 We are experimenting with the following 3 gradient boosting algorithms to determine which one yields better results:
